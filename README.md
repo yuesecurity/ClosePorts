@@ -3,7 +3,7 @@ ClosePorts
 
 # MS17-010缓解措施
 
-<p style="font-color:red">文件名需要改成英文</p>
+<span style="font-color:red">`文件名需要改成英文`</span>
 ## 一键关闭445端口
 - 需要以管理员权限打开（XP、03环境不需要）
 - 需要重启
